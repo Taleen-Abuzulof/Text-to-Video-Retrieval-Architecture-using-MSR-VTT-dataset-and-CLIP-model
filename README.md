@@ -1,0 +1,1 @@
+# Text-to-Video-Retrieval-Architecture-using-MSR-VTT-dataset-and-CLIP-model
